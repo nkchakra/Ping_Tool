@@ -1,0 +1,9 @@
+Hostname: eecs-socket-31
+IP Address: 10.4.3.42
+Username: eecs-user
+Password: 4DGJTP^&6@pC
+
+
+send udp from command line
+
+echo "foo" | nc -w1 -u  'ip' 'port'

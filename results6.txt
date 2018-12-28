@@ -1,0 +1,17 @@
+
+host not reachable: reddit.com
+host not reachable: soso.com
+host not reachable: walmart.com
+host not reachable: reverso.net
+host not reachable: ria.ru
+data for ultimate-guitar.com is as follows: 
+	ip: 178.18.22.152
+	hops: 12
+	rtt: 222.35846519470215 ms
+data for voc.com.cn is as follows: 
+	ip: 124.232.151.200
+	hops: 14
+	rtt: 241.4698600769043 ms
+host not reachable: wunderground.com
+host not reachable: irs.gov
+host not reachable: v2ex.com

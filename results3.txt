@@ -1,0 +1,45 @@
+
+data for case.edu is as follows: 
+	ip: 129.22.12.21
+	hops: 4
+	rtt: 13.264179229736328 ms
+data for twitter.com is as follows: 
+	ip: 104.244.42.65
+	hops: 14
+	rtt: 36.91601753234863 ms
+data for ucla.edu is as follows: 
+	ip: 128.97.27.37
+	hops: 18
+	rtt: 56.80060386657715 ms
+data for pointlesssites.com is as follows: 
+	ip: 98.124.199.70
+	hops: 22
+	rtt: 72.40653038024902 ms
+data for lipsum.com is as follows: 
+	ip: 184.173.177.52
+	hops: 20
+	rtt: 34.09552574157715 ms
+data for spotify.com is as follows: 
+	ip: 104.199.64.136
+	hops: 23
+	rtt: 119.537353515625 ms
+data for go.com is as follows: 
+	ip: 23.236.60.174
+	hops: 20
+	rtt: 32.24778175354004 ms
+data for wsj.com is as follows: 
+	ip: 205.203.132.65
+	hops: 23
+	rtt: 36.83042526245117 ms
+data for free.fr is as follows: 
+	ip: 212.27.48.10
+	hops: 26
+	rtt: 209.99622344970703 ms
+data for npr.org is as follows: 
+	ip: 216.35.221.76
+	hops: 21
+	rtt: 55.55009841918945 ms
+data for apache.org is as follows: 
+	ip: 140.211.11.105
+	hops: 20
+	rtt: 72.91102409362793 ms

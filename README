@@ -1,0 +1,16 @@
+Project 2 Report
+    Nikhil Chakravarthy
+    EECS 325 CWRU
+
+To run the distMeasurement.py, enter the command 'sudo python3 distMeasurement.py' in its directory. The file 'targets.txt' must be populated with website names, 1 per line. The output file does not need to exist, the script will overwrite or create it.
+
+How to match ICMP responses?
+I see if the response is from the website I am currently waiting on a response for, as I do them one at a time. I also check if at least one header type matches the header type I set (3) and portno are the same.
+
+Reasons for not getting a response?
+The websites probed may have a firewall that blocks incoming messages like mine that follow no real protocol. In addition, their servers may have a different configuration where the port I send the UDP packet to is in use for something else, and throws an error instead of responding.
+
+***NOTE***
+The data in the PDF are results from me running distMeasurement.py as described above on my personal laptop on CaseWireless. I ran the script on the aws server and received different data (Contacted walmart.com when my laptop did not).
+
+The graph and data for the graph of RTT vs Hop count is in the proj2data-Sheet1.pdf. The general trend is for RTT to increase exponentially with hop count, although the website voc.com.cn was an exception with a low hop count but the highest RTT by far (possible due to geographical distance). For the rest of the data, RTT was fairly low until reaching around 23-24 ms, where it started increasing exponentially.

@@ -1,0 +1,39 @@
+
+data for case.edu is as follows: 
+	ip: 129.22.12.21
+	hops: 4
+	rtt: 0.0029320716857910156
+host not reachable: amazon.com
+host not reachable: facebook.com
+data for twitter.com is as follows: 
+	ip: 104.244.42.129
+	hops: 14
+	rtt: 0.0328822135925293
+host not reachable: accenture.com
+host not reachable: johnsoncontrols.com
+host not reachable: harvard.edu
+data for ucla.edu is as follows: 
+	ip: 128.97.27.37
+	hops: 18
+	rtt: 0.05763578414916992
+host not reachable: amc.com
+host not reachable: marvel.com
+host not reachable: google.com
+host not reachable: yahoo.com
+host not reachable: quora.com
+host not reachable: stackoverflow.com
+host not reachable: movies.com
+host not reachable: fandango.com
+host not reachable: youtube.com
+host not reachable: reddit.com
+data for pointlesssites.com is as follows: 
+	ip: 98.124.199.70
+	hops: 22
+	rtt: 0.06390953063964844
+host not reachable: discuvver.com
+host not reachable: producthunt.com
+host not reachable: theuselessweb.com
+data for lipsum.com is as follows: 
+	ip: 184.173.177.52
+	hops: 20
+	rtt: 0.034424543380737305

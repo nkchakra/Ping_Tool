@@ -1,0 +1,38 @@
+
+data for case.edu is as follows: 
+	ip: 129.22.108.21
+	hops: 4
+	rtt: 0.010073423385620117
+data for twitter.com is as follows: 
+	ip: 104.244.42.129
+	hops: 14
+	rtt: 0.03709578514099121
+data for ucla.edu is as follows: 
+	ip: 128.97.27.37
+	hops: 18
+	rtt: 0.05712175369262695
+data for pointlesssites.com is as follows: 
+	ip: 98.124.199.70
+	hops: 22
+	rtt: 0.07349967956542969
+data for lipsum.com is as follows: 
+	ip: 184.173.177.52
+	hops: 20
+	rtt: 0.020473480224609375
+host not reachable: pinterest.com
+host not reachable: wordpress.com
+host not reachable: apple.com
+host not reachable: adobe.com
+host not reachable: tumblr.com
+host not reachable: vimeo.com
+host not reachable: flickr.com
+host not reachable: microsoft.com
+host not reachable: bit.ly
+host not reachable: godaddy.com
+host not reachable: nytimes.com
+host not reachable: github.com
+host not reachable: soundcloud.com
+data for spotify.com is as follows: 
+	ip: 104.199.64.136
+	hops: 23
+	rtt: 0.2102975845336914
